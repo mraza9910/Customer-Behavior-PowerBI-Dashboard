@@ -15,6 +15,10 @@ I developed an end-to-end analytics workflow using **Python, PostgreSQL, SQL, an
 - Jupyter Notebook
 
 ---
+## Dashboard
+
+👉 **[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTkyMjBmZmItNGQ4Yi00YWMxLWEyZTEtZTAwYWNkY2MxY2U1IiwidCI6ImZiYmY2YzYwLTAzNDQtNGMyOS05NDU5LTcyNTY4NTczOWIxOSIsImMiOjN9)**
+----
 
 ## Business Problem
 
@@ -77,10 +81,6 @@ The dashboard includes:
 - Revenue by Age Group
 - Sales by Age Group
 - Interactive filters for Gender, Subscription Status, Category, and Shipping Type
-
-## Dashboard
-
-👉 **[View Interactive Power BI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTkyMjBmZmItNGQ4Yi00YWMxLWEyZTEtZTAwYWNkY2MxY2U1IiwidCI6ImZiYmY2YzYwLTAzNDQtNGMyOS05NDU5LTcyNTY4NTczOWIxOSIsImMiOjN9)**
 
 ---
 
