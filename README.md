@@ -91,8 +91,7 @@ The dashboard includes:
 - **Clothing** generates the highest revenue and sales volume among product categories.
 - **Young Adults** generate the highest revenue among the analyzed age groups.
 - Express shipping customers have a slightly higher average purchase amount than Standard shipping customers.
-- Several products have discount usage rates approaching 50%, suggesting potential promotional dependency.
-- A substantial portion of the customer base consists of repeat and loyal customers.
+
 
 ---
 
