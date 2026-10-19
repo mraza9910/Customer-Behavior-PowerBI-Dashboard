@@ -3,5 +3,8 @@
 *.sql -linguist-detectable
 *.sql linguist-detectable=true
 *.pbix lingust-language=PowerBI
+*.pbix -linguist-detectable
 *.pbix linguist-detectable=true
+
+
 
