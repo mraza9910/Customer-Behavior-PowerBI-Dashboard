@@ -2,6 +2,6 @@
 *.sql linguist-language=SQL
 *.sql -linguist-detectable
 *.sql linguist-detectable=true
-*.pbix lingust-language=Power BI
+*.pbix lingust-language=PowerBI
 *.pbix linguist-detectable=true
 
