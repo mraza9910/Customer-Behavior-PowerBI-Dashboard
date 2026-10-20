@@ -108,22 +108,6 @@ Feature highly rated and frequently purchased products in marketing and merchand
 
 ---
 
-## Repository Structure
+<img width="1617" height="911" alt="Screenshot 2026-10-19 at 9 51 43 PM" src="https://github.com/user-attachments/assets/2b09264c-08c8-412b-b288-4d6de52dfb38" />
 
-```text
-Customer-Shopping-Behavior/
-│
-├── README.md
-├── notebooks/
-│   └── EDA.ipynb
-│
-├── sql/
-│   └── SQL-Code.sql
-│
-├── powerbi/
-│   └── click the link
-│
-├── reports/
-    ├── Business-Problem.pdf
-    └── Customer-Shopping-Behavior-Analysis.pdf
 
