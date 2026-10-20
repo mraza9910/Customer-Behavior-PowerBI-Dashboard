@@ -28,8 +28,6 @@ The analysis focuses on questions such as:
 - Which customer segments generate the most revenue?
 - Do subscribers spend more than non-subscribers?
 - Which products and categories perform best (sell most)?
-- How dependent are different products on discounts?
-- Which customers demonstrate strong repeat-purchase behavior?
 - How does purchasing behavior vary across demographic groups?
 
 ---
@@ -96,20 +94,17 @@ The dashboard includes:
 
 ## Business Recommendations
 
+**Target High-Value Customer Segments**  
+Use demographic and behavioral segmentation to develop targeted marketing strategies.  For example, Young Adults are the highest revenue generating group, so channels targeting them specifically could increase revenue.  The retailer may need to conduct surveys to understand channel preference among Young Adults
+
 **Strengthen Subscription Benefits**  
-Develop stronger exclusive benefits and incentives to convert repeat customers into subscribers.
+Develop stronger exclusive benefits and incentives to convert repeat customers into subscribers. Additionally, only 27% of the customers are subscribers.  Provide subscriber only discounts and first look into new products to encourage higher subscription rates. Subscription revenue can boost total revenue.
 
 **Develop Customer Loyalty Programs**  
 Use purchase history to reward repeat customers and encourage continued engagement.
 
-**Optimize Discount Strategy**  
-Review products with high discount dependency to balance promotional activity with profitability.
-
 **Prioritize High-Performing Products**  
-Feature highly rated and frequently purchased products in marketing and merchandising campaigns.
-
-**Target High-Value Customer Segments**  
-Use demographic and behavioral segmentation to develop more targeted marketing strategies.
+Feature highly rated and frequently purchased products in marketing and merchandising campaigns; provide discounts on them to encourage purchase.
 
 ---
 
