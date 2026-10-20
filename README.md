@@ -4,13 +4,12 @@
 
 This project analyzes customer shopping behavior using 3,900 retail purchase records to identify patterns in customer spending, product preferences, subscription behavior, discounts, and customer loyalty.
 
-I developed an end-to-end analytics workflow using **Python, PostgreSQL, SQL, and Power BI**, transforming raw customer data into an interactive dashboard and actionable business recommendations.
+I developed an end-to-end analytics workflow using **Python, PostgreSQL, and Power BI**, transforming raw customer data into an interactive dashboard and actionable business recommendations.
 
 ### Tech Stack
 
 - Python (Pandas)
 - PostgreSQL
-- SQL
 - Power BI
 - Jupyter Notebook
 
@@ -28,7 +27,7 @@ The analysis focuses on questions such as:
 
 - Which customer segments generate the most revenue?
 - Do subscribers spend more than non-subscribers?
-- Which products and categories perform best?
+- Which products and categories perform best (sell most)?
 - How dependent are different products on discounts?
 - Which customers demonstrate strong repeat-purchase behavior?
 - How does purchasing behavior vary across demographic groups?
